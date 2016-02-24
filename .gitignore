@@ -1,0 +1,8 @@
+/build/
+/bin/
+/记录/
+.springBeans
+.settings
+.project
+.classpath
+.gradle
